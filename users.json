@@ -1,0 +1,26 @@
+[
+	{
+		"id": 608354155,
+		"uid": 0,
+		"balance": 332000,
+		"regDate": "7.1.2021",
+		"tag": "Даниил",
+		"seno": 3776,
+		"ferms": 102,
+		"exp": 1,
+		"level": 1,
+		"admin": 3
+	},
+	{
+		"id": 604285358,
+		"uid": 1,
+		"balance": -2000,
+		"regDate": "7.1.2021",
+		"tag": "Ваня",
+		"seno": 0,
+		"ferms": 2,
+		"exp": 0,
+		"level": 0,
+		"admin": 0
+	}
+]
